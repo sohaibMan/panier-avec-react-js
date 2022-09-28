@@ -74,6 +74,7 @@ function CartProivder(props) {
         totalAmount:cartState.totalAmount,
         addItem:addItemHandler,
         removeItem:removeItemHandler,
+        
         }
 
 
